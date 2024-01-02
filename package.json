@@ -9,9 +9,14 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "auto": "^11.0.4",
+    "autoprefixer": "^10.4.16",
+    "next": "14.0.4",
+    "postcss": "^8.4.32",
+    "prefixer": "^0.0.3",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.0.4"
+    "tailwindcss": "^3.4.0"
   },
   "devDependencies": {
     "eslint": "^8",
